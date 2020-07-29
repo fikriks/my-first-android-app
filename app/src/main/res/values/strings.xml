@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+    <string name="footballs_name">Nama Klub</string>
+    <string name="about">Tentang Klub</string>
+    <string name="coach">Pelatih Klub</string>
+    <string name="share">Share</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="my_name">Fikri Khairul Shaleh</string>
+    <string name="my_email">fikriks130@gmail.com</string>
+</resources>
